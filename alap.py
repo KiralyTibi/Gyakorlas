@@ -1,1 +1,1 @@
-prin("a megadott")
+print("a megadott")
